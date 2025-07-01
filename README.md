@@ -190,11 +190,11 @@ Use your actual data file paths, feature column names, and model metric names. T
 
 ---
 
-<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/terminal_img.png?raw=true" width="778" height="789" alt="Optional Alt Text"> 
+<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/terminal_img.png?raw=true" width="878" height="789" alt="Optional Alt Text"> 
 
-<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/dashboard_img_1.png?raw=true" width="778" height="789" alt="Optional Alt Text"> 
+<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/dashboard_img_1.png?raw=true" width="878" height="789" alt="Optional Alt Text"> 
 
-<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/dashboard_img_2.png?raw=true" width="778" height="789" alt="Optional Alt Text"> 
+<img src="https://github.com/knowusuboaky/ml-drift-detection/blob/main/ml-drift-detection/dashboard_img_2.png?raw=true" width="878" height="789" alt="Optional Alt Text"> 
 
 
 ---
