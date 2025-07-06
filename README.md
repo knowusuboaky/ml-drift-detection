@@ -3,7 +3,7 @@
 **A Streamlit dashboard for visual monitoring of machine learning data drift and model performance metrics.**
 
 ![PyPI Version](https://img.shields.io/pypi/v/ml-drift-detection?color=blue)
-![PyPI Downloads](https://img.shields.io/pypi/dm/ml-drift-detection)
+![PyPI Downloads][![Downloads](https://pepy.tech/badge/ml-drift-detection)](https://pepy.tech/project/ml-drift-detection)
 ![Python Versions](https://img.shields.io/pypi/pyversions/ml-drift-detection)
 ![License](https://img.shields.io/github/license/knowusuboaky/ml-drift-detection)
 
